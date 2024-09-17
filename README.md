@@ -14,11 +14,5 @@ This project's main goal to run an A/b test to examine the relationship between 
 
 Is there a relationship between total fare amount and payment type and car we nudge customers towards payment method that generate higher revenue for drivers,without negatively impacting experience?
 
-## MYSQL
 
-'''sql
-CREATE DATABASE Maximizing_Revenue;
-USE Maximizing_Revenue;
-SELECT * FROM taxi
-'''
 
