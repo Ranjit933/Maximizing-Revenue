@@ -1,0 +1,37 @@
+Maximizing Revenue Cab Driver Problems
+
+1.Find total revenue for each cab driver
+2.Find the cab driver with the heightest total Vendor
+3.Find the total number of tips for each vendor
+4.Find the average fare trip for each vendor
+5.Find the total revenue for a specific PU Location ID
+6.Find the vendor with the highest average fare per trip
+7.Find total revenue per day of the week
+8.Get the average toatl amount where congestion surcharge is not null
+9.Find thehighest extra value where payment_type is cash (1=cash and 2= credit card)
+10.Find the pick up and drop off time in munites
+11.Find the pick up and drop off time in hours
+12.Find the total revnue (sum of total_amount) for each month in 2020
+13.Get the average fare_amount and tip_amount for each day of the week
+14.Find the top 5 location with the heightest average trip_distance
+15.List all trip where the total_amount was greater than the sum of fare_amount, tip_amount and tools_amount by more than 2 dollors
+16.Find the total fare_amount for each combination of RatecodeID and payment_type
+17.Get the average total_amount for trip where DOLoactaionID is 100 and PULocationID is 50
+18.calculate the percentage of trip with tip_amount greater than 10 dollars for each payment_type
+19.Find the 10 heighest fare_amount records and include their tpep_picup_datetime
+20.Determine the total fare_amount and average tip_amount for each day of the month for July 2020
+21.Identify the VendorID with the heighest total tolls_amount and list the top 3 PULocationID for that vendorID
+22.Calculate the moving average of fare amount over a 30-day window and classify each trip as 'Above Avg or 'Below Avg' 
+23.Determine the total tip amount and categorize it based on ranges(e.g,'Low,'Medium','High')
+24.Calculate the percentage of trips with each payment_type where the fare mount is greater than 50
+25.Find the minimum,maximum and average fare amount for each PULocationID and categorize based on average fare amount
+26.Determine the total fare amount for each RatecodeID and compare it to the total fare amount for trips with passenger_count greater than 3
+27.Calculate the median tip amount for trips that occurred in the month with the highest average fare amount
+28.Find the top 3 DOLocationID with the highest average fare_amount for trips that have tip_amount less than $5
+29. Find the days with the highest average tip_amount and categorize these days as 'High','Medium',or'Low'based on the average 
+30.Calculate nthe difference between the maximum and minimum fare amount for each day and rank the days based on this difference
+31.Determine the average total_amount for trips categorized as 'High based on categorized as 'High' based on fare_amount and compare it with the overall average
+32.Determine the fare amount with the heighest tip for each PULocationID and categorize these fares based on tip amount ranges  
+33.Determine the percentage of trips where fare_amount is greater than the average fare amount for trip with a tip_amount greater than $10
+34.Calculate the average fare_amount for trips with a tolls_amount in the top 25% and categorize the trips by store_and_fwd_flag
+35.Find the VendorID with the highest average total_amount for trips where the congestion_surchare is greater than 1.00 and categorize them as 'High' if their average total_amount is above $50 otherwise categorize them as 'Low'
